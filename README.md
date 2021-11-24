@@ -1,4 +1,4 @@
-# BugLogger
+# CustomersTracker
 
 React/Electron app that uses a MongoDB Atlas database to keep track of logs
 
